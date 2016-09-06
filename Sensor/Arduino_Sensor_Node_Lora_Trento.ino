@@ -52,7 +52,7 @@
 #define DHTTYPE DHT22   // DHT 22  (AM2302)
 //#define DHTTYPE DHT21   // DHT 21 (AM2301)
 
-//UNIQUE ID for ARDUINO; modify this accordingly
+//UNIQUE ID for ARDUINO; modify this
 String sensor_ID = "Ax";
 
 int e;
